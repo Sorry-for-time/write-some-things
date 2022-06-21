@@ -6,8 +6,17 @@
 
 - 要求安装了 cmake(>= 3.21)
 - 以及一个标准的 C 编译器
-  - 这个练习项目使用了 MinGw(GCC 11.2.0 UCRT-POSIX)
+  - 这个练习项目使用了 MinGW(GCC 11.2.0 UCRT-POSIX)
   - 你可以随便更换符合支持 C99 的通用编译器
+
+# Directory Short Description
+
+```
+├───core        # 依赖整合
+├───example     # 其它用例
+├───lib         # 主要文件
+└───test        # 测试代码
+```
 
 # End
 
